@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428399552886",
+    "project_id": "wallpaperapp-2c436",
+    "storage_bucket": "wallpaperapp-2c436.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428399552886:android:be3ac2570e87cbc5a07257",
+        "android_client_info": {
+          "package_name": "com.example.wallypexels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428399552886-d4i3rg9oli1tp2kbcuejvgud3jc7mj38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg9LwbdGbTiS-W8vOrneJ_f5BUrqr1iTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428399552886-d4i3rg9oli1tp2kbcuejvgud3jc7mj38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
